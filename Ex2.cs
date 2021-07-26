@@ -1,0 +1,1 @@
+console.write("I want to travel the whole world");
